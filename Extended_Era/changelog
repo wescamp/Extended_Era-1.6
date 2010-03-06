@@ -1,3 +1,11 @@
+5.3.2010 versions 36.0.0.0 and 36.1.0.0
+    - Changed the unit IDs so that they dont colide with other eras using Extended Era units
+    - Update of Extended Era to Battle for Wesnoth 1.8
+	- Removal of the distinct Extended Era bat line which has become redundant after the inclusion of the Dread Bat into mainline
+
+23.2.2010 version 35.0.0.0
+    - Update of Extended Era to Battle for Wesnoth 1.6
+
 23/8/2008 v x.34.0 (stable)
     - New advancement for the Blood Bat : Dread Bat
     - Fix more Special notes
